@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" width="200" height="200"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" width="250" height="250"> </p>
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
 <h3 align="center">IoT and Robotics Developer and interested in web and tech too.</h3>
 
