@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sushant-kumar-11a242225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-kumar-11a242225" height="30" width="40" /></a>
 <a href="https://instagram.com/sushant.kr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant.kr_" height="30" width="40" /></a>
+<a href="https://credly.com/badges/5d5e3aa4-95a7-4ff9-bebf-d9d959806c2a/public_url" target="blank"><img align="center" src="https://cdn.credly.com/packs/media/src/images/credly-logo-white-2fbc158be65209e9778b4550dcef9d46.svg" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
