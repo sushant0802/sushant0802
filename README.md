@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **ECE from ADGITM | GGSIPU**
 
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **PCB Designing**
 
 - 📫 How to reach me **sushant8178@gmail.com**
 
