@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **ECE from ADGITM | GGSIPU**
 
-- 🌱 I’m currently learning **Embedded System**
+- 🌱 I’m currently learning **IOT**
 
 - 📫 How to reach me **sushant8178@gmail.com**
 
