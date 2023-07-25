@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" width="270" height="270"> </p>
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
-<h3 align="center">IoT and Robotics Developer and interested in web and tech too.</h3>
+<h3 align="center">IoT Developer and interested in web and tech too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant0802&label=Profile%20views&color=0e75b6&style=flat" alt="sushant0802" /> </p>
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
